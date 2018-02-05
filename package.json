@@ -1,0 +1,22 @@
+{
+  "name": "react-rating-update",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "heatmap.js": "^2.0.5",
+    "image-size": "^0.6.2",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-rating": "^1.0.4",
+    "react-rating-anchors": "https://github.com/medwards81/react-rating-anchors.git",
+    "react-scripts": "1.1.0",
+    "request-image-size": "^2.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
